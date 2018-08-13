@@ -1,0 +1,44 @@
+{
+  "title": "Quizzz",
+  "questions": [
+    {
+      "question": "2*2=?",
+      "answers": [
+        {
+          "is_right": true,
+          "value": "4"
+        },
+        {
+          "is_right": false,
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "question": "3+3=?",
+      "answers": [
+        {
+          "is_right": true,
+          "value": "6"
+        },
+        {
+          "is_right": false,
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "question": "4+4=?",
+      "answers": [
+        {
+          "is_right": true,
+          "value": "8"
+        },
+        {
+          "is_right": false,
+          "value": "9"
+        }
+      ]
+    }
+  ]
+}
