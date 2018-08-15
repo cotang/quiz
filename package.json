@@ -3,6 +3,10 @@
   "name": "quiz",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.3.0",
+    "node": "8.11.3"
+  },
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
