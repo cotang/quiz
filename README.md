@@ -2,7 +2,9 @@ Project of quiz. Data - from local .json file.
 
 Visual presentation of how quiz works
 
-![weather-forecast](https://raw.githubusercontent.com/cotang/quiz/master/video.gif)
+![quiz](https://raw.githubusercontent.com/cotang/quiz/master/video.gif)
+
+[Demo on heroku](https://cotang-quiz.herokuapp.com/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
